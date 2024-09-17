@@ -22,20 +22,8 @@
             <tr>
                 <td>Solar System Model V1</td>
                 <td><a href="https://solar-system-v1-ten.vercel.app">Visit Project</a></td>
-                <td>2023-06-15</td>
+                <td>9-Sep-24</td>
                 <td>HTML, CSS, JavaScript, ThreeJS</td>
-            </tr>
-            <tr>
-                <td>Portfolio Website</td>            
-                <td><a href="https://example.com/portfolio" target="_blank">Visit Project</a></td>
-                <td>2024-01-22</td>
-                <td>React, Bootstrap, Node.js</td>
-            </tr>
-            <tr>
-                <td>Task Manager</td>
-                <td><a href="https://example.com/task-manager" target="_blank">Visit Project</a></td>
-                <td>2022-09-10</td>
-                <td>Vue.js, Firebase, Tailwind CSS</td>
             </tr>
         </tbody>
     </table>
