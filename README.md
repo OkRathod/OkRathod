@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **omprakashrathod2024@gmail.com**
 
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/19iq3pB_0mn_6HK8Fh5yrRJ-5HWCKiMIr/view?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/om-rathod-55b057272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om-rathod-55b057272" height="30" width="40" /></a>
