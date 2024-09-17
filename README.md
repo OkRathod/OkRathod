@@ -75,15 +75,15 @@
 <h2>Projects Table</h2>
 
 <table>
-        <thead>
+      <thead>
             <tr>
                 <th>Project Name</th>
                 <th>Link of Project</th>
                 <th>Date Project Created On</th>
                 <th>Tech Stack</th>
             </tr>
-        </thead>
-        <tbody>            
+      </thead>
+      <tbody>            
             <tr>
                 <td>Bouncing Ball</td>
                 <td><a href="https://solar-system-v1-ten.vercel.app">Visit Project</a></td>
