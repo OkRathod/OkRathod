@@ -26,9 +26,9 @@
 </head>
 <body>
 
-    <h2>Projects Table</h2>
+<h2>Projects Table</h2>
 
-    <table>
+<table>
         <thead>
             <tr>
                 <th>Project Name</th>
