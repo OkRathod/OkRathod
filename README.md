@@ -83,19 +83,20 @@
                 <th>Tech Stack</th>
             </tr>
         </thead>
-        <tbody>
-            <tr>
-                <td>Solar System Model V1</td>
-                <td><a href="https://solar-system-v1-ten.vercel.app">Visit Project</a></td>
-                <td>9-Sep-24</td>
-                <td>HTML, CSS, JavaScript, ThreeJS</td>
-            </tr>
+        <tbody>            
             <tr>
                 <td>Bouncing Ball</td>
                 <td><a href="https://solar-system-v1-ten.vercel.app">Visit Project</a></td>
                 <td>17-Sep-24</td>
                 <td>HTML, JavaScript, ThreeJS</td>
             </tr>
+            <tr>
+                <td>Solar System Model V1</td>
+                <td><a href="https://solar-system-v1-ten.vercel.app">Visit Project</a></td>
+                <td>9-Sep-24</td>
+                <td>HTML, CSS, JavaScript, ThreeJS</td>
+            </tr>
+
         </tbody>
     </table>
 
