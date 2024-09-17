@@ -90,6 +90,12 @@
                 <td>9-Sep-24</td>
                 <td>HTML, CSS, JavaScript, ThreeJS</td>
             </tr>
+            <tr>
+                <td>Bouncing Ball</td>
+                <td><a href="https://solar-system-v1-ten.vercel.app">Visit Project</a></td>
+                <td>17-Sep-24</td>
+                <td>HTML, JavaScript, ThreeJS</td>
+            </tr>
         </tbody>
     </table>
 
@@ -97,17 +103,4 @@
 </html>
 
 
-<!--
-**OkRathod/OkRathod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
