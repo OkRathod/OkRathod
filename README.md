@@ -21,7 +21,7 @@
         <tbody>
             <tr>
                 <td>Solar System Model V1</td>
-                <td><a href="https://solar-system-v1-ten.vercel.app" target="_blank">Visit Project</a></td>
+                <td><a href="https://solar-system-v1-ten.vercel.app">Visit Project</a></td>
                 <td>2023-06-15</td>
                 <td>HTML, CSS, JavaScript, ThreeJS</td>
             </tr>
