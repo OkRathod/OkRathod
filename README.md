@@ -20,10 +20,10 @@
         </thead>
         <tbody>
             <tr>
-                <td>Weather App</td>
-                <td><a href="https://example.com/weather-app" target="_blank">Visit Project</a></td>
+                <td>Solar System Model V1</td>
+                <td><a href="https://solar-system-v1-ten.vercel.app" target="_blank">Visit Project</a></td>
                 <td>2023-06-15</td>
-                <td>HTML, CSS, JavaScript, OpenWeather API</td>
+                <td>HTML, CSS, JavaScript, ThreeJS</td>
             </tr>
             <tr>
                 <td>Portfolio Website</td>            
