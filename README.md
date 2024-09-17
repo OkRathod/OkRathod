@@ -1,7 +1,7 @@
 # Hi there 👋
 <table>
    <tr>Om</tr>
-   <tr>Rathod</tr>
+   <td>Rathod</td>
 </table>
 
 <!--
