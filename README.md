@@ -1,8 +1,71 @@
 # Hi there 👋
-<table>
-   <tr>Om</tr>
-   <td>Rathod</td>
-</table>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Table</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #000;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        img {
+            width: 50px;
+            height: 50px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Projects Table</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Project Name</th>
+                <th>GIF</th>
+                <th>Link of Project</th>
+                <th>Date Project Created On</th>
+                <th>Tech Stack</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Weather App</td>
+                <td><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Weather App GIF"></td>
+                <td><a href="https://example.com/weather-app" target="_blank">Visit Project</a></td>
+                <td>2023-06-15</td>
+                <td>HTML, CSS, JavaScript, OpenWeather API</td>
+            </tr>
+            <tr>
+                <td>Portfolio Website</td>
+                <td><img src="https://media.giphy.com/media/xTiTnqEIbY03dV9v0E/giphy.gif" alt="Portfolio GIF"></td>
+                <td><a href="https://example.com/portfolio" target="_blank">Visit Project</a></td>
+                <td>2024-01-22</td>
+                <td>React, Bootstrap, Node.js</td>
+            </tr>
+            <tr>
+                <td>Task Manager</td>
+                <td><img src="https://media.giphy.com/media/1xVbKqsiWvIEg/giphy.gif" alt="Task Manager GIF"></td>
+                <td><a href="https://example.com/task-manager" target="_blank">Visit Project</a></td>
+                <td>2022-09-10</td>
+                <td>Vue.js, Firebase, Tailwind CSS</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
+
 
 <!--
 **OkRathod/OkRathod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
