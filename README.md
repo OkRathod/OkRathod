@@ -96,7 +96,6 @@
                 <td>9-Sep-24</td>
                 <td>HTML, CSS, JavaScript, ThreeJS</td>
             </tr>
-
         </tbody>
     </table>
 
