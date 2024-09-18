@@ -85,6 +85,12 @@
       </thead>
       <tbody>            
             <tr>
+                <td>Solar Miniature</td>
+                <td><a href="https://solar-miniature.vercel.app">Visit Project</a></td>
+                <td>18-Sep-24</td>
+                <td>HTML, JavaScript, ThreeJS</td>
+            </tr>
+            <tr>
                 <td>Bouncing Ball</td>
                 <td><a href="https://bounce-ball-tan.vercel.app">Visit Project</a></td>
                 <td>17-Sep-24</td>
