@@ -85,6 +85,12 @@
       </thead>
       <tbody>            
             <tr>
+                <td>Trex 3JS Model</td>
+                <td><a href="https://3-js-model-animation.vercel.app">Visit Project</a></td>
+                <td>19-Sep-24</td>
+                <td>HTML, JavaScript, ThreeJS</td>
+            </tr>
+            <tr>
                 <td>Solar Miniature</td>
                 <td><a href="https://solar-miniature.vercel.app">Visit Project</a></td>
                 <td>18-Sep-24</td>
