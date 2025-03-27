@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **AI Model**
 
-- 🌱 I’m currently learning **ThreeJS, ReactJS, AI**
+- 🌱 I’m currently learning **ThreeJS, Blockchain, AI and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Website, 3D Designing**
+- 👯 I’m looking to collaborate on **Website, 3D Designing, AI**
 
 - 💬 Ask me about **Python**
 
