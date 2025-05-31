@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Rathod</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Crafting intelligence one model at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okrathod&label=Profile%20views&color=0e75b6&style=flat" alt="okrathod" /> </p>
 
