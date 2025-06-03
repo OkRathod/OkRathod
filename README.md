@@ -9,8 +9,35 @@
 </head>
 <body>
 
-<h2>Projects Table</h2>
+<h2>Currently Working On</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Project Name</th>
+            <th>Link of Project</th>
+            <th>Date Project Created On</th>
+            <th>Tech Stack</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Project 1 Name</td>
+            <td><a href="#">Coming Soon</a></td>
+            <td> Coming Soon </td>
+            <td> Tech Stack </td>
+        </tr>
+        <tr>
+            <td>Project 2 Name</td>
+            <td><a href="#">Coming Soon</a></td>
+            <td> Coming Soon </td>
+            <td> Tech Stack </td>
+        </tr>
+        <!-- Add more <tr> blocks as needed -->
+    </tbody>
+</table>
 
+
+<h2>Projects Done</h2>
 <table>
       <thead>
             <tr>
