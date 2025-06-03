@@ -83,7 +83,13 @@
                 <th>Tech Stack</th>
             </tr>
       </thead>
-      <tbody>            
+      <tbody>
+            <tr>
+                <td>Deep CNN Image Classifier with ANY Images</td>
+                <td><a href="https://github.com/OkRathod/OpenCV-Project-1-Deep-CNN-Image-Classifier-with-ANY-Images">Visit Project</a></td>
+                <td>3-Jun-25</td>
+                <td>Python, Tensorflow, OpenCV</td>
+            </tr>
             <tr>
                 <td>Trex 3JS Model</td>
                 <td><a href="https://3-js-model-animation.vercel.app">Visit Project</a></td>
