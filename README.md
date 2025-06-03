@@ -16,6 +16,26 @@
   </h3>
 </div>
 
+---
+
+🚀 **Machine Learning | Deep Learning | AI Researcher**
+
+🧠 **Building intelligent systems | Automating the future**
+
+📊 **Focus: LLMs, Computer Vision, NLP, Generative AI**
+
+📂 **Sharing open-source tools, experiments, and models**
+
+🔬 **Always learning | 📈 Data-driven | 🤖 Model-obsessed**
+
+> **“Code is the closest thing we have to magic.”**
+
+**🌍 Connect: \[<a href='www.linkedin.com/in/om-rathod2003'>LinkedIn</a>] | 🌐 Portfolio: \[Coming soon]**
+
+📬 Open to collaboration on research, open source & impactful AI projects!**
+
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -51,6 +71,7 @@
     </tbody>
 </table>
 
+---
 
 <h2>Projects Done</h2>
 <table>
