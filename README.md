@@ -28,9 +28,9 @@
 
 🔬 **Always learning | 📈 Data-driven | 🤖 Model-obsessed**
 
-> **“Code is the closest thing we have to magic.”**
+> **_“ Code is the closest thing we have to magic. ”_**
 
-**🌍 Connect: <a href='www.linkedin.com/in/om-rathod2003'>LinkedIn</a> | 🌐 Portfolio: \[Coming soon]**
+🌍 **Connect: <a href="www.linkedin.com/in/om-rathod2003">LinkedIn</a> | 🌐 Portfolio: \[Coming soon]**
 
 📬 Open to collaboration on research, open source & impactful AI projects!**
 
