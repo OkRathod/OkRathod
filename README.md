@@ -1,5 +1,20 @@
-<h1 align="center">Hi 👋, I'm Om Rathod</h1>
-<h3 align="center">Crafting intelligence one model at a time.</h3>
+<img src="https://github.com/user-attachments/assets/1aafec57-4ac8-4506-af88-2b6b6e6998f7" alt="Om Rathod" style="width: 100%; height: 100%; object-fit: cover;">
+<div align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif;">
+  <div style="
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto 20px auto;
+    border: 4px solid #4CAF50;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  ">
+  </div>
+  <h1 style="font-size: 3rem; margin-bottom: 0.2rem;">Hi 👋, I'm Om Rathod</h1>
+  <h3 style="font-size: 1.8rem; font-weight: 400; color: #555;">
+    Crafting intelligence one model at a time.
+  </h3>
+</div>
 
 <!DOCTYPE html>
 <html lang="en">
