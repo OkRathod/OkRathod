@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/b07c1b46-9cae-47a1-8497-21046f93e6ac" alt="Om Rathod" style="width: 100%; height: 100%; object-fit: cover;">
+<img src="https://github.com/user-attachments/assets/16dbf0f7-a9ef-4af8-be77-2f40cab74bd6" alt="Om Rathod" style="width: 100%; height: 100%; object-fit: cover;">
 
 <div align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif;">
   <div style="
