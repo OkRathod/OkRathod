@@ -86,6 +86,12 @@
       </thead>
       <tbody>
             <tr>
+                <td>Deep Face Detection Model with Python and Tensorflow</td>
+                <td><a href="https://github.com/OkRathod/Deep-Face-Detection-Model-with-Python-and-Tensorflow">Visit Project</a></td>
+                <td>17-Jun-25</td>
+                <td>Python, Tensorflow, OpenCV, labelImg, albumentation</td>
+            </tr>
+            <tr>
                 <td>Deep CNN Image Classifier with ANY Images</td>
                 <td><a href="https://github.com/OkRathod/OpenCV-Project-1-Deep-CNN-Image-Classifier-with-ANY-Images">Visit Project</a></td>
                 <td>3-Jun-25</td>
