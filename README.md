@@ -57,10 +57,10 @@
     </thead>
     <tbody>
         <tr>
-            <td>Project 1 Name</td>
+            <td>Plant Disease Prediction with CNN </td>
             <td><a href="#">Coming Soon</a></td>
-            <td> Coming Soon </td>
-            <td> Tech Stack </td>
+            <td> Not started yet</td>
+            <td> Python, Tensorflow, Opencv, Docker, Streamlit</td>
         </tr>
         <tr>
             <td>Project 2 Name</td>
