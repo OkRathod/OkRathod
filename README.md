@@ -59,14 +59,14 @@
         <tr>
             <td>Plant Disease Prediction with CNN </td>
             <td><a href="#">Coming Soon</a></td>
-            <td> Not started yet</td>
+            <td> Coming Soon </td>
             <td> Python, Tensorflow, Opencv, Docker, Streamlit</td>
         </tr>
         <tr>
-            <td>Project 2 Name</td>
+            <td>Object Detection Model: Car Counter</td>
             <td><a href="#">Coming Soon</a></td>
             <td> Coming Soon </td>
-            <td> Tech Stack </td>
+            <td> Python, Tensorflow, Opencv, YOLO </td>
         </tr>
         <!-- Add more <tr> blocks as needed -->
     </tbody>
