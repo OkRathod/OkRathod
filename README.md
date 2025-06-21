@@ -57,10 +57,10 @@
     </thead>
     <tbody>
         <tr>
-            <td>Plant Disease Prediction with CNN </td>
+            <td>Project Name </td>
             <td><a href="#">Coming Soon</a></td>
             <td> Coming Soon </td>
-            <td> Python, Tensorflow, Opencv, Docker, Streamlit</td>
+            <td>Tech Stack</td>
         </tr>
         <tr>
             <td>Object Detection Model: Car Counter</td>
@@ -85,6 +85,12 @@
             </tr>
       </thead>
       <tbody>
+            <tr>
+                <td>Plant Disease Prediction with CNN</td>
+                <td><a href="https://github.com/OkRathod/Plant-Disease-Prediction-with-CNN">Visit Project</a></td>
+                <td>21-Jun-25</td>
+                <td>Python, Tensorflow, Opencv, Docker, Streamlit</td>
+            </tr>
             <tr>
                 <td>Deep Face Detection Model with Python and Tensorflow</td>
                 <td><a href="https://github.com/OkRathod/Deep-Face-Detection-Model-with-Python-and-Tensorflow">Visit Project</a></td>
