@@ -86,6 +86,12 @@
       </thead>
       <tbody>
             <tr>
+                <td>Optical Character Recognition with EasyOCR and Python</td>
+                <td><a href="https://github.com/OkRathod/Optical-Character-Recognition-with-EasyOCR-and-Python">Visit Project</a></td>
+                <td>22-Jun-25</td>
+                <td>Python, PyTorch, Opencv, EasyOcr</td>
+            </tr>
+            <tr>
                 <td>Plant Disease Prediction with CNN</td>
                 <td><a href="https://github.com/OkRathod/Plant-Disease-Prediction-with-CNN">Visit Project</a></td>
                 <td>21-Jun-25</td>
