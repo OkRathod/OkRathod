@@ -86,6 +86,12 @@
       </thead>
       <tbody>
             <tr>
+                <td>Image Downloader & Processor GUI</td>
+                <td><a href="https://github.com/OkRathod/Scrapper-Desktop-App">Visit Project</a></td>
+                <td>24-Jun-25</td>
+                <td>Python, Opencv, Tkinter</td>
+            </tr>
+            <tr>
                 <td>Optical Character Recognition with EasyOCR and Python</td>
                 <td><a href="https://github.com/OkRathod/Optical-Character-Recognition-with-EasyOCR-and-Python">Visit Project</a></td>
                 <td>22-Jun-25</td>
