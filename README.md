@@ -11,7 +11,7 @@
     box-shadow: 0 4px 10px rgba(0,0,0,0.3);
   ">
   </div>
-  <h1 style="font-size: 3rem; margin-bottom: 0.2rem;">Hi 👋, I'm Om Rathod</h1>
+  <h1 style="font-size: 3rem; margin-bottom: 0.2rem;">I'm Om Rathod</h1>
   <h3 style="font-size: 1.8rem; font-weight: 400; color: #555;">
     Crafting intelligence one model at a time.
   </h3>
