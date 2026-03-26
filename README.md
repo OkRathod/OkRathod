@@ -1,148 +1,37 @@
+# Om Rathod
+**AI Infrastructure & Machine Learning Engineer**
 
-<div align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif;">
-  <div style="
-    width: 160px;
-    height: 160px;
-    border-radius: 50%;
-    overflow: hidden;
-    margin: 0 auto 20px auto;
-    border: 4px solid #4CAF50;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
-  ">
-  </div>
-  <h1 style="font-size: 3rem; margin-bottom: 0.2rem;">I'm Om Rathod</h1>
-  <h3 style="font-size: 1.8rem; font-weight: 400; color: #555;">
-    Crafting intelligence one model at a time.
-  </h3>
-</div>
+I build high-performance data pipelines, adversarial ML architectures, and full-stack systems. Focused on solving actual bottlenecks in the AI ecosystem—specifically training data integrity and edge-inference deployment. 
+
+🌍 **Links:** [LinkedIn](https://www.linkedin.com/in/om-rathod2003) | Portfolio: [Coming Soon]
 
 ---
 
-🚀 **Machine Learning | Deep Learning | AI Researcher**
+### 🚀 Active Infrastructure & Engineering 
 
-🧠 **Building intelligent systems | Automating the future**
-
-📊 **Focus: LLMs, Computer Vision, NLP, Generative AI**
-
-📂 **Sharing open-source tools, experiments, and models**
-
-🔬 **Always learning | 📈 Data-driven | 🤖 Model-obsessed**
-
-> **_“ Code is the closest thing we have to magic. ”_**
-
-🌍 **Connect: <a href="https://www.linkedin.com/in/om-rathod2003">LinkedIn</a> | 🌐 Portfolio: \[Coming soon]**
-
-📬 Open to collaboration on research, open source & impactful AI projects!**
+| System | Architecture / Focus | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **Satyamev** | 4-Layer Multi-Modal Deepfake Defense System. Edge-quantized filtering (MobileNet/GhostNet) routing to a heavy-compute cloud ensemble. | `PyTorch`, `FastAPI`, `OpenCV`, `Timm` | `In Active Development` |
+| **TGC Pipeline** | Custom forensic data ingestion engine. Normalizing and processing 500GB+ of adversarial/fragmented media for enterprise AI training. | `Python`, `NumPy`, `Pandas`, `FFmpeg` | `Processing` |
+| **Somafit** | High-velocity consumer platform demonstrating full-stack, end-to-end deployment capabilities shipped in under 30 days. | `Next.js`, `Prisma`, `Supabase`, `PostgreSQL` | `Production Live` |
 
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
+### 🔬 Applied Research & Vision Models
 
-<h2>Currently Working On</h2>
-<table>
-    <thead>
-        <tr>
-            <th>Project Name</th>
-            <th>Link of Project</th>
-            <th>Date Project Created On</th>
-            <th>Tech Stack</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Project Name </td>
-            <td><a href="#">Coming Soon</a></td>
-            <td> Coming Soon </td>
-            <td>Tech Stack</td>
-        </tr>
-        <tr>
-            <td>Object Detection Model: Car Counter</td>
-            <td><a href="#">Coming Soon</a></td>
-            <td> Coming Soon </td>
-            <td> Python, Tensorflow, Opencv, YOLO </td>
-        </tr>
-        <!-- Add more <tr> blocks as needed -->
-    </tbody>
-</table>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Deep Face Detection** | Custom object detection pipeline utilizing albumentations for heavy data augmentation and bounding box regression. | `TensorFlow`, `OpenCV` | 
+| **Agnostic CNN Classifier** | Deep convolutional neural network built for high-variance, multi-class image sorting. | `TensorFlow`, `Keras` |
+| **Edge OCR Engine** | Optical character recognition pipeline optimized for document scanning and text extraction. | `PyTorch`, `EasyOCR` | 
+| **Phyto-Diagnostics** | Convolutional neural network architecture for plant disease prediction, containerized for rapid deployment. | `TensorFlow`, `Docker`, `Streamlit` |
 
 ---
 
-<h2>Projects Done</h2>
-<table>
-      <thead>
-            <tr>
-                <th>Project Name</th>
-                <th>Link of Project</th>
-                <th>Date Project Created On</th>
-                <th>Tech Stack</th>
-            </tr>
-      </thead>
-      <tbody>
-            <tr>
-                <td>Image Downloader & Processor GUI</td>
-                <td><a href="https://github.com/OkRathod/Scrapper-Desktop-App">Visit Project</a></td>
-                <td>24-Jun-25</td>
-                <td>Python, Opencv, Tkinter</td>
-            </tr>
-            <tr>
-                <td>Optical Character Recognition with EasyOCR and Python</td>
-                <td><a href="https://github.com/OkRathod/Optical-Character-Recognition-with-EasyOCR-and-Python">Visit Project</a></td>
-                <td>22-Jun-25</td>
-                <td>Python, PyTorch, Opencv, EasyOcr</td>
-            </tr>
-            <tr>
-                <td>Plant Disease Prediction with CNN</td>
-                <td><a href="https://github.com/OkRathod/Plant-Disease-Prediction-with-CNN">Visit Project</a></td>
-                <td>21-Jun-25</td>
-                <td>Python, Tensorflow, Opencv, Docker, Streamlit</td>
-            </tr>
-            <tr>
-                <td>Deep Face Detection Model with Python and Tensorflow</td>
-                <td><a href="https://github.com/OkRathod/Deep-Face-Detection-Model-with-Python-and-Tensorflow">Visit Project</a></td>
-                <td>17-Jun-25</td>
-                <td>Python, Tensorflow, OpenCV, labelImg, albumentation</td>
-            </tr>
-            <tr>
-                <td>Deep CNN Image Classifier with ANY Images</td>
-                <td><a href="https://github.com/OkRathod/OpenCV-Project-1-Deep-CNN-Image-Classifier-with-ANY-Images">Visit Project</a></td>
-                <td>3-Jun-25</td>
-                <td>Python, Tensorflow, OpenCV</td>
-            </tr>
-            <tr>
-                <td>Trex 3JS Model</td>
-                <td><a href="https://3-js-model-animation.vercel.app">Visit Project</a></td>
-                <td>19-Sep-24</td>
-                <td>HTML, JavaScript, ThreeJS</td>
-            </tr>
-            <tr>
-                <td>Solar Miniature</td>
-                <td><a href="https://solar-miniature.vercel.app">Visit Project</a></td>
-                <td>18-Sep-24</td>
-                <td>HTML, JavaScript, ThreeJS</td>
-            </tr>
-            <tr>
-                <td>Bouncing Ball</td>
-                <td><a href="https://bounce-ball-tan.vercel.app">Visit Project</a></td>
-                <td>17-Sep-24</td>
-                <td>HTML, JavaScript, ThreeJS</td>
-            </tr>
-            <tr>
-                <td>Solar System Model V1</td>
-                <td><a href="https://solar-system-v1-ten.vercel.app">Visit Project</a></td>
-                <td>9-Sep-24</td>
-                <td>HTML, CSS, JavaScript, ThreeJS</td>
-            </tr>
-        </tbody>
-    </table>
+### ⚙️ Core Stack
+* **Machine Learning:** PyTorch, TensorFlow, Scikit-Learn, OpenCV, Timm, MediaPipe
+* **Backend & APIs:** Python, FastAPI, Node.js
+* **Full-Stack & Database:** Next.js, PostgreSQL, Prisma, Supabase
+* **Deployment:** Docker, Git, Cloud Compute
 
-</body>
-</html>
-
-
-
+> *Executing at high velocity. Building the infrastructure to stop AI corruption.*
